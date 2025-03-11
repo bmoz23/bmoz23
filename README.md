@@ -9,10 +9,9 @@
 
 ### 🚀 About Me
 - 🔬 **Researching:** NLP, LLMs, RAG, Multi-Agent Systems
-- 🛠 **Tech Stack:** Python, LangChain, ChromaDB, Hugging Face, OpenAI GPT, Streamlit
+- 🛠 **Tech Stack:** Python, LangChain, Vector Databases, Hugging Face, Streamlit
 - 🌱 **Currently Learning:** Agentic RAG & Advanced Deep Learning
-- 💡 **Portfolio:** [bmoz23.github.io](https://bmoz23.github.io/)
-- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/bmoz23)
+- 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/batuhan-mert-öztürk-923282256)
 
 ---
 
@@ -20,13 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmoz23&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-### 📌 Featured Projects
-🚀 **[TEDU SageAI](https://github.com/bmoz23/TEDU-SageAI)** - AI-powered learning assistant using RAG, Multi-Agent Systems, and ChromaDB.  
-🔍 **[AvioBot](https://github.com/bmoz23/AvioBot)** - Advanced AI co-pilot for real-time voice assistance.  
-📖 **[NewsSnap](https://github.com/bmoz23/NewsSnap)** - AI-powered summarization Chrome extension.  
 
 ---
 
