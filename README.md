@@ -11,7 +11,7 @@
 - 🔬 **Researching:** NLP, LLMs, RAG, Multi-Agent Systems
 - 🛠 **Tech Stack:** Python, LangChain, Vector Databases, Hugging Face, Streamlit
 - 🌱 **Currently Learning:** Agentic RAG & Advanced Deep Learning
-- 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/batuhan-mert-öztürk-923282256)
+- 📫 **How to reach me:** [www.linkedin.com/in/batuhan-mert-öztürk-923282256](www.linkedin.com/in/batuhan-mert-öztürk-923282256)
 
 ---
 
